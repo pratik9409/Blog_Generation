@@ -1,4 +1,4 @@
-# Blog Generator using Streamlit and Langchain using LLAMA2
+# Blog Generator using Streamlit and Langchain with LLAMA2
 ## Overview:
 This code snippet demonstrates how to use Streamlit, a popular Python library for building web applications, along with Langchain, a library for natural language processing tasks, to generate blogs based on user input.
 
